@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/alexandre-soares-93/teste-ebac-ui#readme",
   "dependencies": {
-    "cypress": "^8.3.0"
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3"
   }
 }
